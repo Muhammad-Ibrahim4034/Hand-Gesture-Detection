@@ -6,6 +6,7 @@ In this project, my team and I created a Hand Gesture Detection model using Goog
 This project is a Hand Gesture Detection System developed using Google Teachable Machine. It is designed to assist mute individuals in communicating more effectively by recognizing specific hand gestures and translating them into readable text or voice outputs.
 
 👥 Team Members
+
 Muhammad Ibrahim
 
 Muhammad Hamza Nawaz
