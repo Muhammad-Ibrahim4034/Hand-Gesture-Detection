@@ -11,6 +11,7 @@ This project is a **Hand Gesture Detection System** developed using **Google Tea
 
 - Muhammad Ibrahim
 - Muhammad Hamza Nawaz
+- Rameela Hassan
 
 
 ## 🎯 Objectives
