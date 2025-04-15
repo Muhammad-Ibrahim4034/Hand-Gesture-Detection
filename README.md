@@ -42,6 +42,7 @@ Muhammad Hamza Nawaz
     The recognized gesture is displayed on the screen as text (and optionally converted to speech using Web Speech API).
 
 📈 Future Improvements
+
   Add support for more gestures or full sign language alphabet.
   
   Improve accuracy in different lighting conditions.
@@ -51,6 +52,7 @@ Muhammad Hamza Nawaz
   Deploy the web app online for easier access.
 
 ❤️ Acknowledgements
+
   Google Teachable Machine
   
   TensorFlow.js
